@@ -7,6 +7,8 @@
     "strict": true,
     "noImplicitAny": false,
     "moduleResolution": "node",
-    "newLine": "lf"
+    "newLine": "lf",
+    "declaration": true,
+    "declarationDir": "dist/d.ts/"
   }
 }
